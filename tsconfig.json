@@ -14,7 +14,13 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ngx-translate-in": [
+        "dist/ngx-translate-in/ngx-translate-in",
+        "dist/ngx-translate-in"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,

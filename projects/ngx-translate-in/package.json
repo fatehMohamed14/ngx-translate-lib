@@ -1,0 +1,33 @@
+{
+  "name": "ngx-translate-in",
+  "version": "0.0.1",
+  "author": "Fateh Mohamed (fatehh.mohammed.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fatehMohamed14/ngx-translate-in.git"
+  },
+  "peerDependencies": {
+    "@angular/common": "^9.1.12",
+    "@angular/core": "^9.1.12",
+    "rxjs": "^6.0.0",
+    "@ngx-translate/core": "^11.0.0",
+    "@ngx-translate/http-loader": "^4.0.0"
+  },
+  "homepage": "https://github.com/fatehMohamed14/ngx-translate-in",
+  "keywords": [
+    "angular",
+    "javascript",
+    "typescript",
+    "ngx-translate",
+    "translateIn",
+    "translate-in",
+    "translate",
+    "pipe",
+    "i18n",
+    "pipe"
+  ],
+  "dependencies": {
+    "tslib": "^1.10.0"
+  },
+  "license": "MIT"
+}
