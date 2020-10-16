@@ -1,11 +1,10 @@
 # NgxTranslateIn
 
-This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.12.
-This library will allow you to have multiple translation in the same time using a pipe `translateIn`, you can translate a part of your html content in English while the current language is French
+This lib will allow you to translate in other languages than the current one using a pipe `translateIn`, you can translate a part of your html content in English while the current and default language is French.
 
 ## Install
 
-Run `npm i mat-phone-code-validator --save`
+Run `npm i ngx-translate-in --save`
 
 ## Usage
 
